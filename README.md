@@ -5,4 +5,4 @@ Homework repository of team "Korszeru Gepeszek" for deep learning course: BMEVIT
 The aim of our homework is to create a network that is capable of separating the speech of two speakers who speak simultanously. The method of recording is presumed to be single channeled (mono). 
 
 # Data sets
-As data we the use audiobook form of a Charles Dickens novel Hard Times, read by ten different speakers. We split and mix these audiobooks 
+The data source is the audiobook form of a Charles Dickens novel Hard Times, read by ten different speakers. To create input data we split and mix these signals on top of each other.

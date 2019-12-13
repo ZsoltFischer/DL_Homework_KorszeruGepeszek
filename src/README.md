@@ -14,3 +14,10 @@ The scripts are meant to be executed in the following order:
 
 - update of `mixer.ipynb`
 - implementation of CNN model in `model1.ipynb`
+
+## Third milestone
+
+- implementation of CNN model and training in `Model_and_training.ipynb`
+- implementation of SDR calculation and demonstration on longer utterance in `Demonstration_of_results.ipynb`
+- `unet_softmax.csv` with a sample training result
+- `unet_softmax.hdf5` with the weights of the final neural network

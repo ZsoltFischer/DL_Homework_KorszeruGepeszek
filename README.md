@@ -1,7 +1,7 @@
 # Deep Learning Homework – Korszerű Gépészek
 Homework repository of team "Korszeru Gepeszek" for deep learning course: BMEVITMAV45 (2019/20/1)
 The project is carried out in Google Colaboratory using Python 3.7.
-`Deep_Learning_Document.pdf` contains the full documentation of the project.
+`Deep_Learning_Documentation.pdf` contains the full documentation of the project.
 
 # Talker separation problem
 The aim of our homework is to create a network that is capable of separating the speech of two speakers who speak simultanously. The method of recording is presumed to be single channeled (mono/monaural).

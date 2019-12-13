@@ -18,6 +18,6 @@ The scripts are meant to be executed in the following order:
 ## Third milestone
 
 - implementation of CNN model and training in `Model_and_training.ipynb`
-- implementation of SDR calculation and demonstration on longer utterance in `Demonstration_of_results.ipynb`
-- `unet_softmax.csv` with a sample training result
+- implementation of SDR calculation and demonstration on longer audio signal in `Demonstration_of_results.ipynb`
+- `unet_softmax.csv` with a sample training log
 - `unet_softmax.hdf5` with the weights of the final neural network
